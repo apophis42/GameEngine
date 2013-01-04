@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameEngine", "GameEngine\GameEngine.vcxproj", "{89428CF8-614F-4CE0-BC97-66BA77DBF417}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLeeLib", "VC++ Projects\GLeeLib\GLeeLib.vcxproj", "{5CB3C044-3B90-4915-92A5-02B174C790AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KazmathLib", "VC++ Projects\KazmathLib\KazmathLib.vcxproj", "{DCE7C7CB-A782-41EC-BBF1-BAB80E52E8A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89428CF8-614F-4CE0-BC97-66BA77DBF417}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89428CF8-614F-4CE0-BC97-66BA77DBF417}.Debug|Win32.Build.0 = Debug|Win32
+		{89428CF8-614F-4CE0-BC97-66BA77DBF417}.Release|Win32.ActiveCfg = Release|Win32
+		{89428CF8-614F-4CE0-BC97-66BA77DBF417}.Release|Win32.Build.0 = Release|Win32
+		{5CB3C044-3B90-4915-92A5-02B174C790AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CB3C044-3B90-4915-92A5-02B174C790AC}.Debug|Win32.Build.0 = Debug|Win32
+		{5CB3C044-3B90-4915-92A5-02B174C790AC}.Release|Win32.ActiveCfg = Release|Win32
+		{5CB3C044-3B90-4915-92A5-02B174C790AC}.Release|Win32.Build.0 = Release|Win32
+		{DCE7C7CB-A782-41EC-BBF1-BAB80E52E8A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCE7C7CB-A782-41EC-BBF1-BAB80E52E8A2}.Debug|Win32.Build.0 = Debug|Win32
+		{DCE7C7CB-A782-41EC-BBF1-BAB80E52E8A2}.Release|Win32.ActiveCfg = Release|Win32
+		{DCE7C7CB-A782-41EC-BBF1-BAB80E52E8A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
